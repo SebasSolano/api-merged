@@ -14,7 +14,7 @@
 
 runtime: python
 env: flex
-entrypoint: uvicorn main:app --host 0.0.0.0 --port 80
+entrypoint: fastapi run main.py
 
 runtime_config:
   operating_system: ubuntu22
