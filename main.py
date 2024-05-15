@@ -27,7 +27,7 @@ def validate_and_create_folders():
 
 @app.get("/api/")
 def index():
-    return "This app is for something specific"
+    return "API ON"
 
 
 '''
@@ -110,5 +110,5 @@ def deleting_folder(action: int):
 
 
 if __name__ == "__main__":
-    uvicorn.run(host="127.0.0.1", port=5000, log_level="info")
+    uvicorn.run("main:app", port=5000, log_level="info")
     
