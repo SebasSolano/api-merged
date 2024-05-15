@@ -6,7 +6,6 @@ from orderFile import orderFile
 import os
 import firebase_admin
 from firebase_admin import credentials
-import uvicorn
 
 cred = credentials.Certificate("./erp-mtrtest-18f0f398893a.json")
 firebase_admin.initialize_app(cred, {
@@ -108,7 +107,4 @@ def deleting_folder(action: int):
     else:
         return "ERROR: You can only enter 0 or 1."
 
-
-if __name__ == "__main__":
-    uvicorn.run("main:app", port=5000, log_level="info")
     
