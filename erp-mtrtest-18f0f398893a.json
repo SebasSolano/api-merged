@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "erp-mtrtest",
+  "private_key_id": "18f0f398893ac29b5a95c52bc91627dc2a8d6889",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDk7tRbL5g18fL4\nvFS9EsffB3bPwQYMN5mEFmXl2CCzNBnsvoe/PmAGjcrI5wmiu7tG3PB9JCsY20ts\n6aVMC90w75TBJUxR5ydFPSXwFkksQvsrPYzxsevHDWdW0zPXrMeqapnuJt4sp8dE\n520Iaax1e5VZANjSf+vpqzQ5zd6ebCIf4VglQkJStkBfDKq7/qA+CvBmkgx0O/3F\n5m4HIMVoIXsSfDbClAz3JD8kbXKmc6vI3klilj0Kp6kyxxRWTOH2b4dReo5wWQj4\n+kntPKya2TdDiSyZ8GToU0gZgoFzGzsiPbhD/XPVaBX5UrmcfhicCGDg+gzLXBhH\nCk7MOmPDAgMBAAECggEAE1RdBsP6gJeIsdrI9tvml1y8eecs2Qw6wI3ZlbINdMQR\n6kzeDlY4amU/eX4UcLKUKfQOtCpBH0yozi3eIJEh4HdiInrBOmsfhDeZA/AFxqBz\nL5/3ThL9OuXVU13q0yuKAkgU7ihG+xNBfn5h1OODRbolDopFRGS7qROlCbppsQt8\nZUpdhTJHw3xxtLClzgX0DfSu/kgzqb9a+MN7AUlbbb7E39IcntW2Fozw8urUU6mp\nE1uM0BTu1P7osHqiP4475BevvCfrpQCpf50NtHnb62ukY60UimNutNDCX/cU7+VA\nyaW9FUG7BqaYVUUmhRliuqJiloDpps8x0VgpFQzCEQKBgQD11iHt3KY1G6PWibLp\nrbr/8FWRUsasZ+iedh5l5vPQm6m9zKUQUC0giRvtBZlKzx5P6MjLkRKUBg/pxvxS\nZio20BQToPYYA8xZ1kmEfz57b4ALqw7nb/ElxqSZS8HLWq6xtybthJiAYsYMvGTu\nEOCwGj73EO2U+e2lOCU7e49QswKBgQDuZctn/aAZ/qTOT9cm65+13drkwf3CRKyJ\nDyFO5ZDgNOYYhhQDRA27E9cSuP1RqfMJniEYhJza0va92nCURFv39J7GBePMUOp7\n0PyJTwQ2D3LPJWXtYVRj+BfI+oPPSXpQnHN+Y8EwCRmVB6gzfP/7HZj3CaWd4gA+\nVsQ1YOoIsQKBgDeJ9wRb8xjQc8VGOqtcWoDz9QDt6ICOwRj7qoZvFOouIL0GfMwg\nsPFGyI5V03n5LOn0t1h2H/JdJD82e07KUgMsIz0EAlUOlp49MULD1IPiftUkAiv7\nOEnGhO01FkUw6YKw1BSY/jMTHZdHAK5gFcLzSwJaSrJ7fFr1QkQb+BbNAoGAT7FP\nsc+i+Y2aYi1mauhRV2Z2igofXhW+54JbTBiJual1UbVgc0cIoAUd3HBini4FxK1L\nuvp5xNzJBuZCxA2mANmRSfkmEWLrP8C46t2zNq8rXfvOevASWejRaqnz7hNOBCyI\nnzORnREtsBgDLlMW70cRn2NmLcUi97Phm0ZudcECgYB5F9XhORjJ+pvqoHDho77A\nz/TyTnYcP5Q4k4bMsYepUzFVz3aQRqTKQuPUgwBbz0PEex00bQewSWVO/asvGclK\n4Ml4EZAAJf72k+ohQ76p8hNN070VRoqpzFMroHBLoRDD92bf4PDHm2qWwhrHXJdT\nOIS+gvPn7Sy3EUDfTCaRXA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "erp-mtrtest@appspot.gserviceaccount.com",
+  "client_id": "114485829625480286465",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/erp-mtrtest%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
